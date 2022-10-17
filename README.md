@@ -1,16 +1,16 @@
-### Hi there 👋
+### <h1> Ola me chamo Silas Rafael...</h1>
 
-<!--
-**Silas-Rafael/silas-rafael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Sou um microempreendendor que esta iniciando seus estudos na Programação. </h3>
 
-Here are some ideas to get you started:
+- Estuando Desenvolvimento Web no curso ProgramadorBR full stack.
+- Participei da primeira fase do CWI-Reset, onde tive introdução a QA.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Aqui](https://creative-elf-950a98.netlify.app) você encontra meus contatos.
+
+##
+
+<div align="center">
+  <a href="https://github.com/SilasRSSimoes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SilasRSSimoes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilasRSSimoes&layout=compact&langs_count=7&theme=dark"/>
+</div>
