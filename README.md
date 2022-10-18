@@ -3,7 +3,7 @@
 <h3>Sou um microempreendendor que esta iniciando meus estudos na Programação. </h3>
 
 - Atualmente estuando Desenvolvimento Web no curso ProgramadorBR (full stack).
-- Participei da primeira fase do CWI-Reset, onde tive introdução a QA.
+- Participei da primeira fase do CWI-Reset 4ª edição, onde tive introdução a QA.
 
 [Aqui](https://silas-rafael.github.io/links/) você encontra meus contatos.
 
