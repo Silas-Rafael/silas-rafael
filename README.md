@@ -5,7 +5,7 @@
 - Estuando Desenvolvimento Web no curso ProgramadorBR full stack.
 - Participei da primeira fase do CWI-Reset, onde tive introdução a QA.
 
-[Aqui](https://creative-elf-950a98.netlify.app) você encontra meus contatos.
+[Aqui](https://silas-rafael.github.io/links/) você encontra meus contatos.
 
 ##
 
